@@ -1,0 +1,19 @@
+{
+  "name": "recorder",
+  "main": "index.js",
+  "version": "0.0.0",
+  "authors": [
+    "Sheryl Boughton <sherpbo@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "recorderjs": "~0.0.0"
+  }
+}
